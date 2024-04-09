@@ -1,9 +1,19 @@
 h2
       {
          font-size: 15px;
-         font-family: Arial,Calibri;
-         color: #DA70D6;
+         font-family: Arial;
+         color: pink;
          text-align: center;
          background-color: indigo;
+      }
+h1
+      {
+         font-size: 20px;
+         font-family: Calibri;
+         color: #E0FFFF;
+      }
+h5
+      {
+         color: #778899;
       }
          
