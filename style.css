@@ -17,6 +17,12 @@ h5
          color: #778899;
       }
 .zagl {
-         font family: "Oswald 
+         font-family: "Oswald", system-ui;
+         font-optical-sizing: auto;
+         font-weight: 300;
+         font-style: normal;
+         font-variation-settings: "MORF" 0;
+}
+
 
          
