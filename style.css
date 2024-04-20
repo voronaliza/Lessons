@@ -27,5 +27,10 @@ h5
 .text {
    font-size: 15px; 
 } 
-
+.menu {
+ text-align: center;
+ margin: auto;
+ width: 80%
+}      
+      
          
