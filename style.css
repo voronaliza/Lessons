@@ -31,6 +31,15 @@ h5
  text-align: center;
  margin: auto;
  width: 80%
+}  
+.menu {
+ text-align: center;
 }      
-      
+.menu li {
+ list-style-type: none;
+ display: inline-table;
+ WIdth: 20%
+}      
+
+
          
